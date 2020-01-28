@@ -1,4 +1,4 @@
-#  Data structure Implmentation in Go Lang 
+#  Data structure Implementation in Go Lang 
 
 
 - [Linked List](https://github.com/kunaltaitkar/datastructure/tree/master/linkedList)
